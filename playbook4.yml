@@ -1,0 +1,16 @@
+---
+- hosts: "all"
+  become: true
+  vars:
+    moto: Good luck and have a nice day!
+  tasks:
+    - name: Change /etc/motd
+      copy:
+        content:
+          - "{{ moto }}"
+          - "{{ ansible_facts.default_ipv4.address}}"
+          - "{{ ansible_facts.hostname}}"
+        dest: /etc/motd
+        owner: root
+        group: root
+        mode: 0644
