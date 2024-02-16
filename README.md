@@ -45,6 +45,10 @@ serial - определяет количество узлов, обрабаты�
 ![image](https://github.com/AnastasiyaEvsseva/7-01/assets/151757353/ec556ea2-7989-46d9-a064-7b6828681388)
 ![image](https://github.com/AnastasiyaEvsseva/7-01/assets/151757353/cfc358ce-f3c5-497e-9b75-2617a9178fc3)
 ![image](https://github.com/AnastasiyaEvsseva/7-01/assets/151757353/b776be6b-efde-43ed-947d-ea3da8ff9342)
+![image](https://github.com/AnastasiyaEvsseva/7-01/assets/151757353/3bf973b6-60be-4de4-af12-30cb00411f57)
+![image](https://github.com/AnastasiyaEvsseva/7-01/assets/151757353/ab7a655f-41cf-41bd-8e05-f6563d7914a9)
+
+
 
 
 
